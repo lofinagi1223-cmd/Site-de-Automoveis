@@ -121,7 +121,8 @@ ul {
 .hero {
   position: relative;
   height: 600px;
-  background-image: url('https://placehold.co/1920x1080/222/white?text=.+.+.');
+  background-image: url('https://placehold.co/1920x1080/222/black?text=´');
+  
   /* Placeholder */
   background-size: cover;
   background-position: center;
